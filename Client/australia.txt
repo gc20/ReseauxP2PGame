@@ -1,0 +1,17 @@
+Sydney
+Perth
+Melbourne
+Cairns
+Darwin
+Adelaide
+Canberra
+Brisbane
+AliceSprings
+GoldCoast
+Wollongong
+Tasmania
+Mackay
+Whyalla
+Hobart
+
+
